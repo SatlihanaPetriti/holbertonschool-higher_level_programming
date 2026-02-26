@@ -1,0 +1,1 @@
+INSERT INTO first_table
