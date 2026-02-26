@@ -1,1 +1,2 @@
-INSERT INTO first_table (id,name) VALUES(89,"bEST SCHOOL");
+-- script first add
+INSERT INTO first_table (id,name) VALUES(89,"BEST SCHOOL");

@@ -1,3 +1,2 @@
--- script
-
-SHOW CREATE Table first_table;
+-- script full description
+SHOW CREATE TABLE first_table;
