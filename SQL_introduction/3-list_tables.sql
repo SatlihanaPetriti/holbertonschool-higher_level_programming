@@ -1,2 +1,2 @@
--- script ;ist tables
+-- script tables
 SHOW TABLES;
